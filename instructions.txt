@@ -1,0 +1,2 @@
+Drawing: Use single finger to Drawing
+Selection:Use two fingers to select colour or eraser
